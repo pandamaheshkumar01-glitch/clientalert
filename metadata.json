@@ -1,0 +1,6 @@
+{
+  "name": "ClientAlert",
+  "description": "Mobile-first billing, automated payment reminders, and real-time delivery tracking web app for Indian freelancers and small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
